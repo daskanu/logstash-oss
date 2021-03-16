@@ -1,6 +1,6 @@
 # Logstash OSS images with added JSON encode plugin
 
-## Since Version 7.11.2 the following plugins will get updated to the latest version when running the Docker build:
+## Following plugins will get updated to their latest version when running the Docker build:
 - logstash-input-beats
 - logstash-input-syslog
 - logstash-output-elasticsearch
