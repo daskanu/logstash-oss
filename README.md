@@ -3,7 +3,6 @@
 ## Following plugins will get updated to their latest version when running the Docker build:
 - logstash-input-beats
 - logstash-input-syslog
-- logstash-output-elasticsearch
 - logstash-output-lumberjack
 
 Versions:
